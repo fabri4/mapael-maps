@@ -1,5 +1,6 @@
 {
   "name": "mapael-maps",
+  "version": "1.0.0",
   "description": "Vector maps for jQuery Mapael",
   "homepage": "http://www.vincentbroute.fr/mapael/",
   "repository": {
